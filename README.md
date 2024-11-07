@@ -6,7 +6,7 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-informational.svg?style=for-the-badge)](https://spdx.org/licenses/MIT.html)
 
-** Source code should be avaible shorly **
+**Source code should be avaible shorly**
 
 The **VSCode Central Remote Config extension** allows users to load and configure their [Continue](https://www.continue.dev/) settings from a remote server. This extension provides a simple way to manage `~/.continue/config.json` Continue configuration file, replacing placeholders with user-provided API key.
 
